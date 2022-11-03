@@ -1,8 +1,10 @@
 import React from 'react'
 import './SingleStory.css'
 
-export const SingleStory = ({}) => {
+export const SingleStory = ({details}) => {
   return (
-    <div>SingleStory</div>
+    <div>
+      <h2>{details.title}</h2>
+    </div>
   )
 }

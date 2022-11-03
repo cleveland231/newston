@@ -9,7 +9,7 @@ const fetchStories = () => {
         })
 }
 
-const fetchOptionStories = (option) => {
+const fetchOptionStories = async (option) => {
     return fetch(`https://api.nytimes.com/svc/topstories/v2/${option}.json?api-key=CPsvMTlNwQHXHAeGmFuCiYT0bfWNhOA3`)
         .then(response => {
             if (!response.ok) {

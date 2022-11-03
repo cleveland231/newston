@@ -1,5 +1,5 @@
 # Newston
-<img width="100%" alt="heat-check-logo" src="">
+<!-- <img width="100%" alt="heat-check-logo" src=""> -->
 
 ## Table of Contents
   - [Introduction](#introduction)
