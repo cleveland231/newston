@@ -24,16 +24,17 @@ const App = () => {
   const viewDropDown = () => {
     return filterOptions.map(option => {
       return (
-        <option value={'option'}>{option}</option>
+        <option value={option}>{option}</option>
       )
     })
   }
 
   const handleClick = (event) => {
     event.preventDefault()
-    setStories([])
+    // setStories([])
     fetchOptionStories(event.target.value).then((data) => {
       console.log(data.results)
+      setStories(data.results)
     })
   }
 
@@ -41,26 +42,21 @@ const App = () => {
     <div className="App">
       <div className='top'>
         <NavLink to="/">
-          <h1>Newston</h1>
+          <h1 className='newstonTitle'>Newston</h1>
         </NavLink>
-
         <form className='filter'>
           <select>
             {viewDropDown()}
           </select>
           <button type='submit' onClick={(event) => handleClick(event)}> FILTER </button>
         </form>
-
       </div>
       <Switch>
-
         <Route exact path="/" render={() => <Main stories={stories} /> }/>
         <Route exact path="/story/:id" render={({match}) => {
           const details = stories.find(story => story.title === match.params.id) 
             return <SingleStory stories={stories} details={details}/> 
-        }}
-        />
-
+        }}/>
         <Route render={() => <h2>This Path Does Not Exist!</h2>} />
       </Switch>
     </div>

@@ -40,7 +40,7 @@
   - Once you are done using Newston, make sure to type Control + C in your terminal stop the server
 
 ## Organizational Resources
-- [Wireframe]()
+- [Wireframe](https://www.figma.com/file/G9wLshWylORhcmRkV7cMgb/Untitled?node-id=0%3A1)
 
 ## Contributors
   - [Cleveland Ticoalu](https://github.com/cleveland231) - [LinkedIn](https://www.linkedin.com/in/cleveland-ticoalu/)

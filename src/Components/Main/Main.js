@@ -12,7 +12,6 @@ export const Main = ({stories}) => {
           <h2 className='storiesTitle'> {story.title} </h2>
         </Link>
           <h3 className='storiesAbstract'> {story.abstract} </h3>
-          {/* <button> VIEW STORY </button> */}
         </li>
       )
     })
