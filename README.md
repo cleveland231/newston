@@ -13,7 +13,8 @@
   - [Contributors](#contributors)
 
 ## Introduction
-    - Visit Newston...
+    - Visit Newston to find stories about different topics all around the world,
+    and links to the NY TIMES story.
 
 ## Technologies
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -21,7 +22,10 @@
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ## Features
-    - Users are able to...
+    - Users are able to find stories about different topics
+    - Easy access dropdown to view topics
+    - View list of stories
+    - View detailed story with link to NY TIMES story and photo
 
 ## Illustrations
 
@@ -29,7 +33,9 @@
    Visit our published Heat-Check page []()
 
 ## Possible Future Extensions
-    - 
+    - Make comments on stories
+    - Input for users to search for stories
+    - Styling
 
 ## Set Up
   - In your terminal, $ git clone https://github.com/cleveland231/newston
