@@ -1,5 +1,5 @@
 const fetchStories = () => {
-    return fetch(`https://api.nytimes.com/svc/topstories/v2/home.json?api-key=CPsvMTlNwQHXHAeGmFuCiYT0bfWNhOA3`)
+    return fetch(`https://api.nytimes.com/svc/topstories/v2/home.json?api-key=4avDpdFXu1EGb9etx6oEDvv1on0qxTMm`)
         .then(response => {
             if (!response.ok) {
                 throw new Error(response.status + " " + response.statusText)
@@ -9,8 +9,8 @@ const fetchStories = () => {
         })
 }
 
-const fetchOptionStories = async (option) => {
-    return fetch(`https://api.nytimes.com/svc/topstories/v2/${option}.json?api-key=CPsvMTlNwQHXHAeGmFuCiYT0bfWNhOA3`)
+const fetchOptionStories = (option) => {
+    return fetch(`https://api.nytimes.com/svc/topstories/v2/${option}.json?api-key=4avDpdFXu1EGb9etx6oEDvv1on0qxTMm`)
         .then(response => {
             if (!response.ok) {
                 throw new Error(response.status + " " + response.statusText)

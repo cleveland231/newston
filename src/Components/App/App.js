@@ -8,18 +8,22 @@ import './App.css';
 
 const App = () => {
   const [stories, setStories] = useState([])
+  const [selectOption, setSelectOption] = useState('')
 
   useEffect(() => {
-    // fetchStories().then((data) => {
-    //   console.log(data.results)
-    //   setStories(data.results)
-    // })
-    fetchOptionStories('home')
+    fetchStories().then((data) => {
+      console.log(data.results)
+      setStories(data.results)
+    })
+  }, [])
+
+  useEffect(() => {
+    fetchOptionStories(selectOption)
       .then((data) => {
         console.log(data.results)
         setStories(data.results)
       })
-  }, [])
+  }, [selectOption])
 
   const viewDropDown = () => {
     return filterOptions.map(option => {
@@ -30,12 +34,7 @@ const App = () => {
   }
 
   const handleClick = (event) => {
-    event.preventDefault()
-    // setStories([])
-    fetchOptionStories(event.target.value).then((data) => {
-      console.log(data.results)
-      setStories(data.results)
-    })
+    setSelectOption(event.target.value)
   }
 
   return (
@@ -44,19 +43,24 @@ const App = () => {
         <NavLink to="/">
           <h1 className='newstonTitle'>Newston</h1>
         </NavLink>
+
         <form className='filter'>
-          <select>
+          <select
+            name="options"
+            value={selectOption}
+            onChange={(event) => handleClick(event)}
+          >
+            <option value="home">Filter Topics</option>
             {viewDropDown()}
           </select>
-          <button type='submit' onClick={(event) => handleClick(event)}> FILTER </button>
         </form>
       </div>
       <Switch>
-        <Route exact path="/" render={() => <Main stories={stories} /> }/>
-        <Route exact path="/story/:id" render={({match}) => {
-          const details = stories.find(story => story.title === match.params.id) 
-            return <SingleStory stories={stories} details={details}/> 
-        }}/>
+        <Route exact path="/" render={() => <Main stories={stories} />} />
+        <Route exact path="/story/:id" render={({ match }) => {
+          const details = stories.find(story => story.title === match.params.id)
+          return <SingleStory stories={stories} details={details} />
+        }} />
         <Route render={() => <h2>This Path Does Not Exist!</h2>} />
       </Switch>
     </div>
