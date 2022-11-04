@@ -39,7 +39,7 @@
   
 
 ## Deployed Page
-   Visit our published Heat-Check page [here](https://newston-cleveland231.vercel.app/)
+    - published Newston page [here](https://newston-cleveland231.vercel.app/)
 
 ## Possible Future Extensions
     - Make comments on stories
