@@ -39,7 +39,7 @@
   
 
 ## Deployed Page
-   - published Newston page [here](https://newston-cleveland231.vercel.app/)
+   - Published Newston page [here](https://newston-cleveland231.vercel.app/)
 
 ## Possible Future Extensions
     - Make comments on stories
