@@ -27,12 +27,15 @@
     - View detailed story with link to NY TIMES story and photo
 
 ## Illustrations
-<img width="100%" alt="homepage" src="https://user-images.githubusercontent.com/96998327/199867628-3546d1a1-4e19-41a8-9125-18d16820119d.png">
   - Homepage with drop down open
-<img width="100%" alt="single story page" src="https://user-images.githubusercontent.com/96998327/199867599-72ffc71b-aa23-4879-95c5-4eabd5d89526.png">
+<img width="100%" alt="homepage" src="https://user-images.githubusercontent.com/96998327/199867628-3546d1a1-4e19-41a8-9125-18d16820119d.png">
+  
   - Single story page
-<img width="100%" alt="light house score" src="https://user-images.githubusercontent.com/96998327/199868212-654f1e77-dac0-4864-a5d3-fb080e9fd3ad.png">
+<img width="100%" alt="single story page" src="https://user-images.githubusercontent.com/96998327/199867599-72ffc71b-aa23-4879-95c5-4eabd5d89526.png">
+  
   - Light house accessibility score
+<img width="100%" alt="light house score" src="https://user-images.githubusercontent.com/96998327/199868212-654f1e77-dac0-4864-a5d3-fb080e9fd3ad.png">
+  
 
 ## Deployed Page
    Visit our published Heat-Check page [here]()
