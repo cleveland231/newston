@@ -10,6 +10,7 @@
   - [Set Up](#set-up)
   - [Organizational Resources](#organizational-resources)
   - [Contributors](#contributors)
+  - [Project Specs](#project-specs)
 
 ## Introduction
     - Visit Newston to find stories about different topics all around the world,
@@ -38,7 +39,7 @@
   
 
 ## Deployed Page
-   Visit our published Heat-Check page [here]()
+   Visit our published Heat-Check page [here](https://newston-cleveland231.vercel.app/)
 
 ## Possible Future Extensions
     - Make comments on stories
@@ -58,5 +59,8 @@
 
 ## Contributors
   - [Cleveland Ticoalu](https://github.com/cleveland231) - [LinkedIn](https://www.linkedin.com/in/cleveland-ticoalu/)
+
+## Project Specs
+  - The project spec & rubric can be found [here](https://mod4.turing.edu/projects/take_home/take_home_fe)
 
 
