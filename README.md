@@ -1,5 +1,4 @@
 # Newston
-<!-- <img width="100%" alt="heat-check-logo" src=""> -->
 
 ## Table of Contents
   - [Introduction](#introduction)
@@ -28,9 +27,11 @@
     - View detailed story with link to NY TIMES story and photo
 
 ## Illustrations
+<img width="100%" alt="homepage" src="https://user-images.githubusercontent.com/96998327/199867628-3546d1a1-4e19-41a8-9125-18d16820119d.png">
+<img width="100%" alt="single story page" src="https://user-images.githubusercontent.com/96998327/199867599-72ffc71b-aa23-4879-95c5-4eabd5d89526.png">
 
 ## Deployed Page
-   Visit our published Heat-Check page []()
+   Visit our published Heat-Check page [here]()
 
 ## Possible Future Extensions
     - Make comments on stories
@@ -46,7 +47,7 @@
   - Once you are done using Newston, make sure to type Control + C in your terminal stop the server
 
 ## Organizational Resources
-- [Wireframe](https://www.figma.com/file/G9wLshWylORhcmRkV7cMgb/Untitled?node-id=0%3A1)
+- [Figma Wireframe](https://www.figma.com/file/G9wLshWylORhcmRkV7cMgb/Untitled?node-id=0%3A1)
 
 ## Contributors
   - [Cleveland Ticoalu](https://github.com/cleveland231) - [LinkedIn](https://www.linkedin.com/in/cleveland-ticoalu/)

@@ -1,0 +1,2185 @@
+{
+"status": "OK",
+"copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+"section": "home",
+"last_updated": "2022-11-03T20:41:29-04:00",
+"num_results": 35,
+"results": [
+{
+"section": "us",
+"subsection": "politics",
+"title": "Voters Have Expanded Medicaid in 6 States. Is South Dakota Next?",
+"abstract": "Ten years after the Supreme Court ruled that states did not have to expand Medicaid, the politics are changing in states like South Dakota, where rural hospitals and nursing homes are struggling.",
+"url": "https://www.nytimes.com/2022/11/03/us/politics/medicaid-expansion-south-dakota.html",
+"uri": "nyt://article/20b9c76a-1433-5970-8122-57fa55234c35",
+"byline": "By Sheryl Gay Stolberg",
+"item_type": "Article",
+"updated_date": "2022-11-03T18:56:29-04:00",
+"created_date": "2022-11-03T17:06:21-04:00",
+"published_date": "2022-11-03T17:06:21-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Midterm Elections (2022)",
+"Medicaid",
+"Health Insurance and Managed Care",
+"Referendums",
+"State Legislatures",
+"Patient Protection and Affordable Care Act (2010)",
+"United States Politics and Government",
+"Agriculture and Farming",
+"Hospitals",
+"Rural Areas",
+"Nursing Homes"
+],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [
+"South Dakota"
+],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/us/politics/03dc-medicaid_6/03dc-medicaid_6-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1366,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "An unlikely coalition of farmers, business leaders, hospital executives and clergy members have coalesced around a ballot measure that would enshrine Medicaid expansion in the South Dakota Constitution.",
+"copyright": "Tim Gruber for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/us/politics/03dc-medicaid_6/03dc-medicaid_6-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "An unlikely coalition of farmers, business leaders, hospital executives and clergy members have coalesced around a ballot measure that would enshrine Medicaid expansion in the South Dakota Constitution.",
+"copyright": "Tim Gruber for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/us/politics/03dc-medicaid_6/03dc-medicaid_6-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "An unlikely coalition of farmers, business leaders, hospital executives and clergy members have coalesced around a ballot measure that would enshrine Medicaid expansion in the South Dakota Constitution.",
+"copyright": "Tim Gruber for The New York Times"
+}
+],
+"short_url": "https://nyti.ms/3FGbNiz"
+},
+{
+"section": "us",
+"subsection": "",
+"title": "Stoked by Republicans, Fears of Crime Loom Large for Midterm Voters",
+"abstract": "Republican candidates are focusing on crime and public safety, but their message is rooted not so much in data or policy as in voters’ feelings of unease.",
+"url": "https://www.nytimes.com/2022/11/03/us/midterm-elections-republicans-crime.html",
+"uri": "nyt://article/6aa7be5a-dfda-5da7-b72d-18c3610253ee",
+"byline": "By Julie Bosman, Jack Healy and Campbell Robertson",
+"item_type": "Article",
+"updated_date": "2022-11-03T17:28:33-04:00",
+"created_date": "2022-11-03T12:53:18-04:00",
+"published_date": "2022-11-03T12:53:18-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Midterm Elections (2022)",
+"Crime and Criminals",
+"Police"
+],
+"org_facet": [
+"Democratic Party",
+"Republican Party"
+],
+"per_facet": [
+"Lake, Kari A",
+"Oz, Mehmet C",
+"Krasner, Larry (1961- )",
+"Hochul, Kathleen C",
+"Zeldin, Lee M"
+],
+"geo_facet": [
+"Arizona",
+"Bensalem (Pa)",
+"Menomonee Falls (Wis)",
+"Scottsdale (Ariz)"
+],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/us/03crime-election-1/merlin_215904174_03859387-fd09-44a5-aac3-6c185c56c6d6-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1366,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "Across the country, Republican candidates have sought to blame Democrats for crime problems. Billboards in Philadelphia attacked the Democratic candidate for U.S. Senate, John Fetterman.",
+"copyright": "Michelle Gustafson for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/us/03crime-election-1/merlin_215904174_03859387-fd09-44a5-aac3-6c185c56c6d6-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "Across the country, Republican candidates have sought to blame Democrats for crime problems. Billboards in Philadelphia attacked the Democratic candidate for U.S. Senate, John Fetterman.",
+"copyright": "Michelle Gustafson for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/us/03crime-election-1/03crime-election-1-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "Across the country, Republican candidates have sought to blame Democrats for crime problems. Billboards in Philadelphia attacked the Democratic candidate for U.S. Senate, John Fetterman.",
+"copyright": "Michelle Gustafson for The New York Times"
+}
+],
+"short_url": "https://nyti.ms/3WqBObw"
+},
+{
+"section": "us",
+"subsection": "politics",
+"title": "Fueled by Billionaires, Political Spending Shatters Records Again",
+"abstract": "In the money race between America’s billionaires and small donors, the emerging political oligarchy is showing staying power. Both parties have megadonors, but Republicans have far more.",
+"url": "https://www.nytimes.com/2022/11/03/us/politics/midterm-money-billionaires.html",
+"uri": "nyt://article/0b04fdde-9d09-528a-9eb8-d0b59c2728db",
+"byline": "By Jonathan Weisman and Rachel Shorey",
+"item_type": "Article",
+"updated_date": "2022-11-03T16:14:19-04:00",
+"created_date": "2022-11-03T13:37:05-04:00",
+"published_date": "2022-11-03T13:37:05-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Midterm Elections (2022)",
+"High Net Worth Individuals",
+"United States Politics and Government",
+"Campaign Finance",
+"Political Advertising",
+"Democracy (Theory and Philosophy)"
+],
+"org_facet": [],
+"per_facet": [
+"Bloomberg, Michael R",
+"Griffin, Kenneth C",
+"Mellon, Timothy (1942- )",
+"Soros, George",
+"Uihlein, Richard"
+],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/multimedia/03pol-oligarchs-fried-1-8e18/03pol-oligarchs-fried-1-8e18-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "Samuel Bankman-Fried is the Democrat who made arguably the biggest splash for his party. His $37 million in giving helped fund the Democrats’ two main super PACs.",
+"copyright": "Erika P. Rodriguez for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/multimedia/03pol-oligarchs-fried-1-8e18/03pol-oligarchs-fried-1-8e18-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "Samuel Bankman-Fried is the Democrat who made arguably the biggest splash for his party. His $37 million in giving helped fund the Democrats’ two main super PACs.",
+"copyright": "Erika P. Rodriguez for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/multimedia/03pol-oligarchs-fried-1-8e18/03pol-oligarchs-fried-1-8e18-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "Samuel Bankman-Fried is the Democrat who made arguably the biggest splash for his party. His $37 million in giving helped fund the Democrats’ two main super PACs.",
+"copyright": "Erika P. Rodriguez for The New York Times"
+}
+],
+"short_url": "https://nyti.ms/3Wxq8DN"
+},
+{
+"section": "us",
+"subsection": "politics",
+"title": "Biden and Netanyahu Gear Up for a Complicated New Era",
+"abstract": "The two leaders have forged a relationship over four decades that vacillates between warmth and combat.",
+"url": "https://www.nytimes.com/2022/11/03/us/politics/biden-netanyahu.html",
+"uri": "nyt://article/11bd432b-443e-5e75-9c2e-d9cbb54e75e5",
+"byline": "By Michael D. Shear and David E. Sanger",
+"item_type": "Article",
+"updated_date": "2022-11-03T20:01:57-04:00",
+"created_date": "2022-11-03T19:58:11-04:00",
+"published_date": "2022-11-03T19:58:11-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"United States International Relations",
+"Palestinians",
+"Embargoes and Sanctions",
+"Presidential Election of 2020",
+"Israeli Settlements",
+"Russian Invasion of Ukraine (2022)",
+"Elections",
+"Nuclear Weapons",
+"Weapons"
+],
+"org_facet": [],
+"per_facet": [
+"Biden, Joseph R Jr",
+"Netanyahu, Benjamin",
+"Obama, Barack",
+"Trump, Donald J"
+],
+"geo_facet": [
+"Israel",
+"Iran",
+"Ukraine"
+],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/us/politics/03dc-prexy_1/merlin_215594154_09d74b78-01d6-45a1-8f93-0db1842d846b-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "Benjamin Netanyahu, center, the head of Likud party, at an October gathering before elections cemented a path for his return to power.",
+"copyright": "Ariel Schalit/Associated Press"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/us/politics/03dc-prexy_1/merlin_215594154_09d74b78-01d6-45a1-8f93-0db1842d846b-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "Benjamin Netanyahu, center, the head of Likud party, at an October gathering before elections cemented a path for his return to power.",
+"copyright": "Ariel Schalit/Associated Press"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/us/politics/03dc-prexy_1/03dc-prexy_1-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "Benjamin Netanyahu, center, the head of Likud party, at an October gathering before elections cemented a path for his return to power.",
+"copyright": "Ariel Schalit/Associated Press"
+}
+],
+"short_url": "https://nyti.ms/3NCHQ4L"
+},
+{
+"section": "world",
+"subsection": "middleeast",
+"title": "Netanyahu Will Return With Corruption Charges Unresolved. Here’s Where the Case Stands.",
+"abstract": "Benjamin Netanyahu is on track to once again lead Israel as prime minister — while facing a corruption trial.",
+"url": "https://www.nytimes.com/2022/11/03/world/middleeast/netanyahu-corruption-charges-israel.html",
+"uri": "nyt://article/87bb4ea4-b99c-5380-a189-f4bc176cf106",
+"byline": "By Yonette Joseph and Patrick Kingsley",
+"item_type": "Article",
+"updated_date": "2022-11-03T18:49:04-04:00",
+"created_date": "2022-11-03T18:36:18-04:00",
+"published_date": "2022-11-03T18:36:18-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Politics and Government",
+"Corruption (Institutional)",
+"Elections"
+],
+"org_facet": [],
+"per_facet": [
+"Netanyahu, Benjamin"
+],
+"geo_facet": [
+"Israel"
+],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/world/03israel-netanyahu-explainer-top/merlin_215490498_64967f7a-6b86-48b2-8127-cc8fa8816ed9-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "Benjamin Netanyahu is poised to begin a sixth term as prime minister.",
+"copyright": "Amit Elkayam for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/world/03israel-netanyahu-explainer-top/merlin_215490498_64967f7a-6b86-48b2-8127-cc8fa8816ed9-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "Benjamin Netanyahu is poised to begin a sixth term as prime minister.",
+"copyright": "Amit Elkayam for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/world/03israel-netanyahu-explainer-top/merlin_215490498_64967f7a-6b86-48b2-8127-cc8fa8816ed9-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "Benjamin Netanyahu is poised to begin a sixth term as prime minister.",
+"copyright": "Amit Elkayam for The New York Times"
+}
+],
+"short_url": "https://nyti.ms/3FIxGxD"
+},
+{
+"section": "us",
+"subsection": "",
+"title": "Paul Pelosi Leaves San Francisco Hospital After Attack",
+"abstract": "The husband of Nancy Pelosi, the House speaker, returned home six days after being beaten with a hammer by an assailant who targeted his wife.",
+"url": "https://www.nytimes.com/2022/11/03/us/paul-pelosi-leaves-hospital.html",
+"uri": "nyt://article/d5ca1623-a214-5238-a775-063a17b8782f",
+"byline": "By Luke Broadwater and Kellen Browning",
+"item_type": "Article",
+"updated_date": "2022-11-03T19:50:05-04:00",
+"created_date": "2022-11-03T17:49:12-04:00",
+"published_date": "2022-11-03T17:49:12-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Rumors and Misinformation",
+"Murders, Attempted Murders and Homicides"
+],
+"org_facet": [],
+"per_facet": [
+"Pelosi, Nancy",
+"Pelosi, Paul",
+"Depape, David"
+],
+"geo_facet": [
+"San Francisco (Calif)"
+],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/us/03dc-pelosi-discharged-1/merlin_215597847_3d44f9ff-0c41-4602-a9aa-5f6703335cb4-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1366,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "Paul Pelosi, right, the husband of House Speaker Nancy Pelosi, on Capitol Hill in Washington in March.",
+"copyright": "Andrew Harnik/Associated Press"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/us/03dc-pelosi-discharged-1/merlin_215597847_3d44f9ff-0c41-4602-a9aa-5f6703335cb4-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "Paul Pelosi, right, the husband of House Speaker Nancy Pelosi, on Capitol Hill in Washington in March.",
+"copyright": "Andrew Harnik/Associated Press"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/us/03dc-pelosi-discharged-1/03dc-pelosi-discharged-1-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "Paul Pelosi, right, the husband of House Speaker Nancy Pelosi, on Capitol Hill in Washington in March.",
+"copyright": "Andrew Harnik/Associated Press"
+}
+],
+"short_url": "https://nyti.ms/3UpWC0S"
+},
+{
+"section": "world",
+"subsection": "americas",
+"title": "Troubled Loner? Political Terrorist? Both? It’s Often Hard to Say",
+"abstract": "The attack on Nancy Pelosi’s husband has raised questions about the role of demonizing political speech in violent acts, not for the first time.",
+"url": "https://www.nytimes.com/2022/11/03/world/americas/pelosi-attack-interpreter.html",
+"uri": "nyt://article/4d44de51-ba9a-5df8-addd-bcca3bf12aef",
+"byline": "By Max Fisher",
+"item_type": "Article",
+"updated_date": "2022-11-03T17:28:29-04:00",
+"created_date": "2022-11-03T16:32:24-04:00",
+"published_date": "2022-11-03T16:32:24-04:00",
+"material_type_facet": "",
+"kicker": "The Interpreter",
+"des_facet": [
+"Terrorism",
+"United States Politics and Government",
+"Right-Wing Extremism and Alt-Right",
+"Language and Languages",
+"Computers and the Internet"
+],
+"org_facet": [],
+"per_facet": [
+"Pelosi, Paul"
+],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/04/world/04int-pelosi-1/merlin_215845479_cbf9fecb-1a90-4ebb-8d60-1becb2310cba-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1474,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "Speaker Nancy Pelosi on Tuesday, as she left her home where her husband, Paul, suffered an attack by David DePape.",
+"copyright": "Jim Wilson/The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/04/world/04int-pelosi-1/04int-pelosi-1-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "Speaker Nancy Pelosi on Tuesday, as she left her home where her husband, Paul, suffered an attack by David DePape.",
+"copyright": "Jim Wilson/The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/04/world/04int-pelosi-1/04int-pelosi-1-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "Speaker Nancy Pelosi on Tuesday, as she left her home where her husband, Paul, suffered an attack by David DePape.",
+"copyright": "Jim Wilson/The New York Times"
+}
+],
+"short_url": "https://nyti.ms/3U4dUB7"
+},
+{
+"section": "technology",
+"subsection": "",
+"title": "Elon Musk Begins Layoffs at Twitter",
+"abstract": "The social media company’s 7,500 employees have been bracing for job cuts since Mr. Musk took it over last week.",
+"url": "https://www.nytimes.com/2022/11/03/technology/twitter-layoffs-elon-musk.html",
+"uri": "nyt://article/e994b19e-77e9-5491-97c8-722c00703de4",
+"byline": "By Kate Conger",
+"item_type": "Article",
+"updated_date": "2022-11-03T20:27:22-04:00",
+"created_date": "2022-11-03T20:26:13-04:00",
+"published_date": "2022-11-03T20:26:13-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Social Media",
+"Layoffs and Job Reductions",
+"Labor and Jobs",
+"Computers and the Internet",
+"Mergers, Acquisitions and Divestitures"
+],
+"org_facet": [
+"Twitter"
+],
+"per_facet": [
+"Musk, Elon"
+],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/02/business/00twitter-layoffs-01/00twitter-layoffs-01-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "Twitter’s headquarters in San Francisco. About half the company’s 7,500 workers appeared set to lose their jobs.",
+"copyright": "Jim Wilson/The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/02/business/00twitter-layoffs-01/00twitter-layoffs-01-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "Twitter’s headquarters in San Francisco. About half the company’s 7,500 workers appeared set to lose their jobs.",
+"copyright": "Jim Wilson/The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/02/business/00twitter-layoffs-01/00twitter-layoffs-01-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "Twitter’s headquarters in San Francisco. About half the company’s 7,500 workers appeared set to lose their jobs.",
+"copyright": "Jim Wilson/The New York Times"
+}
+],
+"short_url": "https://nyti.ms/3DAGQts"
+},
+{
+"section": "technology",
+"subsection": "",
+"title": "Elon Musk, Under Financial Pressure, Pushes to Make Money From Twitter",
+"abstract": "The billionaire and his advisers have discussed adding paid direct messages, fees to watch videos and other features to the service.",
+"url": "https://www.nytimes.com/2022/11/03/technology/elon-musk-twitter-money-finances.html",
+"uri": "nyt://article/f30ad029-3441-51d4-95bf-d6d5fbaa62b0",
+"byline": "By Mike Isaac and Ryan Mac",
+"item_type": "Article",
+"updated_date": "2022-11-03T18:27:26-04:00",
+"created_date": "2022-11-03T17:01:00-04:00",
+"published_date": "2022-11-03T17:01:00-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Social Media",
+"Prices (Fares, Fees and Rates)",
+"Video Recordings, Downloads and Streaming",
+"Computers and the Internet",
+"Mergers, Acquisitions and Divestitures",
+"Layoffs and Job Reductions",
+"Corporate Social Responsibility",
+"Advertising and Marketing"
+],
+"org_facet": [
+"Twitter"
+],
+"per_facet": [
+"Musk, Elon"
+],
+"geo_facet": [
+"San Francisco (Calif)"
+],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/business/03TWITTER/merlin_215715867_25380ca6-9073-4b75-b75f-6bde5a1a40f2-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1366,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "Twitter’s headquarters in San Francisco. Last year, the company had less money in cash flow than what it now owes its lenders annually.",
+"copyright": "Constanza Hevia/Agence France-Presse — Getty Images"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/business/03TWITTER/merlin_215715867_25380ca6-9073-4b75-b75f-6bde5a1a40f2-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "Twitter’s headquarters in San Francisco. Last year, the company had less money in cash flow than what it now owes its lenders annually.",
+"copyright": "Constanza Hevia/Agence France-Presse — Getty Images"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/business/03TWITTER/03TWITTER-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "Twitter’s headquarters in San Francisco. Last year, the company had less money in cash flow than what it now owes its lenders annually.",
+"copyright": "Constanza Hevia/Agence France-Presse — Getty Images"
+}
+],
+"short_url": "https://nyti.ms/3UsDPlT"
+},
+{
+"section": "world",
+"subsection": "europe",
+"title": "Kherson Braces for Battle as Russian Administration Evacuates",
+"abstract": "Evidence points to both sides preparing for a pitched battle for the southern city, and Ukrainians say hints of a Russian military withdrawal are mere deception.",
+"url": "https://www.nytimes.com/2022/11/03/world/europe/russia-ukraine-kherson-battle.html",
+"uri": "nyt://article/9d9d023f-baa6-551d-9ca5-1cea1a73de01",
+"byline": "By Marc Santora and Ivan Nechepurenko",
+"item_type": "Article",
+"updated_date": "2022-11-03T20:13:42-04:00",
+"created_date": "2022-11-03T17:24:21-04:00",
+"published_date": "2022-11-03T17:24:21-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Russian Invasion of Ukraine (2022)",
+"Evacuations and Evacuees"
+],
+"org_facet": [],
+"per_facet": [
+"Putin, Vladimir V"
+],
+"geo_facet": [
+"Kherson (Ukraine)",
+"Ukraine",
+"Russia"
+],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/world/03ukraine-ledeall-1/merlin_215956206_470c29b0-5181-4246-af1c-093780134b29-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "A damaged building in the village of Arkhanhelske, in the Kherson region, on Thursday. The building was formerly occupied by Russian forces.",
+"copyright": "Bulent Kilic/Agence France-Presse — Getty Images"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/world/03ukraine-ledeall-1/merlin_215956206_470c29b0-5181-4246-af1c-093780134b29-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "A damaged building in the village of Arkhanhelske, in the Kherson region, on Thursday. The building was formerly occupied by Russian forces.",
+"copyright": "Bulent Kilic/Agence France-Presse — Getty Images"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/world/03ukraine-ledeall-1/merlin_215956206_470c29b0-5181-4246-af1c-093780134b29-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "A damaged building in the village of Arkhanhelske, in the Kherson region, on Thursday. The building was formerly occupied by Russian forces.",
+"copyright": "Bulent Kilic/Agence France-Presse — Getty Images"
+}
+],
+"short_url": "https://nyti.ms/3DZ4AZH"
+},
+{
+"section": "world",
+"subsection": "europe",
+"title": "U.S. officials met with Brittney Griner, who is ‘doing as well as can be expected,’ the White House says.",
+"abstract": "The meeting was the first since the basketball star’s appeal on a drug conviction in Russia was rejected.",
+"url": "https://www.nytimes.com/2022/11/03/world/europe/brittney-griner-russia-us.html",
+"uri": "nyt://article/4a0502ab-b326-54ff-97b1-4b5effd4729b",
+"byline": "By James C. McKinley Jr., Chris Cameron and Edward Wong",
+"item_type": "Article",
+"updated_date": "2022-11-03T17:47:56-04:00",
+"created_date": "2022-11-03T14:16:18-04:00",
+"published_date": "2022-11-03T14:16:18-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [],
+"org_facet": [],
+"per_facet": [
+"Griner, Brittney"
+],
+"geo_facet": [
+"Russia"
+],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/multimedia/03ukraine-briefing-griner-01-1-0734/03ukraine-briefing-griner-01-1-0734-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "WNBA basketball player Brittney Griner arrives to a hearing at the Khimki Court, outside Moscow in August.",
+"copyright": "Kirill Kudryavtsev/Agence France-Presse — Getty Images"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/multimedia/03ukraine-briefing-griner-01-1-0734/03ukraine-briefing-griner-01-1-0734-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "WNBA basketball player Brittney Griner arrives to a hearing at the Khimki Court, outside Moscow in August.",
+"copyright": "Kirill Kudryavtsev/Agence France-Presse — Getty Images"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/multimedia/03ukraine-briefing-griner-01-1-0734/03ukraine-briefing-griner-01-1-0734-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "WNBA basketball player Brittney Griner arrives to a hearing at the Khimki Court, outside Moscow in August.",
+"copyright": "Kirill Kudryavtsev/Agence France-Presse — Getty Images"
+}
+],
+"short_url": "https://nyti.ms/3hctts1"
+},
+{
+"section": "realestate",
+"subsection": "",
+"title": "She Bought the House Her Mother Cleaned for 43 Years",
+"abstract": "Nichol Naranjo says she was destined to own the house that was a refuge, “a place to come and catch our breath. And to dream.”",
+"url": "https://www.nytimes.com/2022/11/03/realestate/housekeeper-daughter-dream-home-renovation.html",
+"uri": "nyt://article/6f29686d-3f39-5ec9-9ce9-330988d58aec",
+"byline": "By Steven Kurutz",
+"item_type": "Article",
+"updated_date": "2022-11-03T15:51:46-04:00",
+"created_date": "2022-11-03T05:00:19-04:00",
+"published_date": "2022-11-03T05:00:19-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"internal-sub-only",
+"Real Estate and Housing (Residential)",
+"Friendship",
+"Domestic Service",
+"Content Type: Personal Profile"
+],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [
+"Albuquerque (NM)",
+"New Mexico"
+],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/06/realestate/00motherskeeper-nichol-marg/merlin_215405874_1ad6b3d0-bdca-406e-9aa7-ccb653cba43b-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1366,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "Margaret Gaxiola, left, was once the housekeeper of the home that her daughter Nichol Naranjo, right, bought in 2020.",
+"copyright": "John Burcham for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/06/realestate/00motherskeeper-nichol-marg/merlin_215405874_1ad6b3d0-bdca-406e-9aa7-ccb653cba43b-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "Margaret Gaxiola, left, was once the housekeeper of the home that her daughter Nichol Naranjo, right, bought in 2020.",
+"copyright": "John Burcham for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/06/realestate/00motherskeeper-nichol-marg/00motherskeeper-nichol-marg-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "Margaret Gaxiola, left, was once the housekeeper of the home that her daughter Nichol Naranjo, right, bought in 2020.",
+"copyright": "John Burcham for The New York Times"
+}
+],
+"short_url": "https://nyti.ms/3DxDQhp"
+},
+{
+"section": "nyregion",
+"subsection": "",
+"title": "Trump Files a Suit Against N.Y.’s Attorney General, and Against Advice",
+"abstract": "The case, filed in Florida, seeks to stop Letitia James’s lawsuit in New York and includes Mr. Trump’s signature rhetoric. His legal advisers are split on the wisdom of filing it.",
+"url": "https://www.nytimes.com/2022/11/03/nyregion/trump-lawsuit-ny-attorney-general.html",
+"uri": "nyt://article/290fb127-dbab-5b29-a6c4-762b0b1a5d64",
+"byline": "By Jonah E. Bromwich, Maggie Haberman, Ben Protess and William K. Rashbaum",
+"item_type": "Article",
+"updated_date": "2022-11-03T16:58:19-04:00",
+"created_date": "2022-11-03T14:20:24-04:00",
+"published_date": "2022-11-03T14:20:24-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Suits and Litigation (Civil)",
+"United States Politics and Government"
+],
+"org_facet": [
+"Trump Organization"
+],
+"per_facet": [
+"Trump, Donald J",
+"James, Letitia",
+"Epshteyn, Boris"
+],
+"geo_facet": [
+"Palm Beach (Fla)"
+],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/nyregion/03trump-suit/merlin_214170309_8ab632e1-c973-406c-9ac8-f137e7423baa-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "The Florida suit includes boasts about the former president’s business and insults directed at his opponents.",
+"copyright": "Brittany Greeson for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/nyregion/03trump-suit/merlin_214170309_8ab632e1-c973-406c-9ac8-f137e7423baa-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "The Florida suit includes boasts about the former president’s business and insults directed at his opponents.",
+"copyright": "Brittany Greeson for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/nyregion/03trump-suit/03trump-suit-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "The Florida suit includes boasts about the former president’s business and insults directed at his opponents.",
+"copyright": "Brittany Greeson for The New York Times"
+}
+],
+"short_url": "https://nyti.ms/3DwWtSF"
+},
+{
+"section": "us",
+"subsection": "",
+"title": "As Drought Drops Water Level in the Mississippi, Shipwrecks Surface and Worries Rise",
+"abstract": "The river known for its vast reach and powerful currents has withered to levels not seen in decades, choking shipping lanes and endangering drinking water supplies.",
+"url": "https://www.nytimes.com/2022/11/03/us/mississippi-river-drought.html",
+"uri": "nyt://article/4277cf21-5887-541f-87de-576a734b99d1",
+"byline": "By Rick Rojas",
+"item_type": "Article",
+"updated_date": "2022-11-03T10:27:07-04:00",
+"created_date": "2022-11-03T05:00:49-04:00",
+"published_date": "2022-11-03T05:00:49-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Drought",
+"Ships and Shipping",
+"Water"
+],
+"org_facet": [
+"Army Corps of Engineers"
+],
+"per_facet": [],
+"geo_facet": [
+"Colorado River",
+"Mississippi River",
+"Mississippi",
+"Tennessee"
+],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/01/us/00nat-mississippi-drought-top/00nat-mississippi-drought-top-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "The wreckage of the Diamond Lady, what used to be a casino boat, is now exposed in Memphis because of the receding water levels of the Mississippi River.",
+"copyright": "Lucy Garrett for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/01/us/00nat-mississippi-drought-top/00nat-mississippi-drought-top-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "The wreckage of the Diamond Lady, what used to be a casino boat, is now exposed in Memphis because of the receding water levels of the Mississippi River.",
+"copyright": "Lucy Garrett for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/01/us/00nat-mississippi-drought-top/00nat-mississippi-drought-top-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "The wreckage of the Diamond Lady, what used to be a casino boat, is now exposed in Memphis because of the receding water levels of the Mississippi River.",
+"copyright": "Lucy Garrett for The New York Times"
+}
+],
+"short_url": "https://nyti.ms/3sSRSVN"
+},
+{
+"section": "arts",
+"subsection": "music",
+"title": "The Philharmonic’s Home Gets a Tune-Up",
+"abstract": "Auditoriums, just like instruments, need to be tuned. Here is how it happened at David Geffen Hall.",
+"url": "https://www.nytimes.com/interactive/2022/11/03/arts/music/geffen-hall-tuning.html",
+"uri": "nyt://interactive/2aaf5b60-1a0f-50ce-aca4-1e508e6bbc53",
+"byline": "By Josephine Sedgwick",
+"item_type": "Interactive",
+"updated_date": "2022-11-03T07:34:49-04:00",
+"created_date": "2022-11-03T05:00:08-04:00",
+"published_date": "2022-11-03T05:00:08-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Classical Music",
+"Acoustics",
+"Architecture"
+],
+"org_facet": [
+"Geffen, David, Hall (Manhattan, NY)",
+"Diamond Schmitt Architects",
+"New York Philharmonic"
+],
+"per_facet": [],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/09/29/arts/03geffen-tuning-promo/merlin_213850200_73dbf7a6-d88d-41f8-84a4-ae09f7ae8459-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Todd Heisler/The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/09/29/arts/03geffen-tuning-promo/merlin_213850200_73dbf7a6-d88d-41f8-84a4-ae09f7ae8459-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Todd Heisler/The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/09/29/arts/03geffen-tuning-promo/03geffen-tuning-promo-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Todd Heisler/The New York Times"
+}
+],
+"short_url": "https://nyti.ms/3T1dVV4"
+},
+{
+"section": "travel",
+"subsection": "",
+"title": "36 Hours in Savannah, Ga.",
+"abstract": "Beyond Savannah’s historic homes and serene oaks, discover interactive art exhibitions, insightful perspectives on the city’s Black history and a thriving midtown nightlife scene.",
+"url": "https://www.nytimes.com/interactive/2022/11/03/travel/things-to-do-savannah.html",
+"uri": "nyt://interactive/621051a2-58ed-58ce-9c83-b40df4546ae3",
+"byline": "By Ariel Felton",
+"item_type": "Interactive",
+"updated_date": "2022-11-03T11:19:04-04:00",
+"created_date": "2022-11-03T05:00:02-04:00",
+"published_date": "2022-11-03T05:00:02-04:00",
+"material_type_facet": "",
+"kicker": "36 Hours",
+"des_facet": [
+"Travel and Vacations",
+"Slavery (Historical)"
+],
+"org_facet": [
+"Grey, The (Savannah, Ga, Restaurant)",
+"Savannah College of Art and Design"
+],
+"per_facet": [],
+"geo_facet": [
+"Savannah (Ga)",
+"Georgia",
+"Southern States (US)"
+],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/26/travel/36Hours-Savannah-cover2/merlin_215796420_142deccb-9009-4bac-91e9-57fed4cf354f-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": ""
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/26/travel/36Hours-Savannah-cover2/merlin_215796420_142deccb-9009-4bac-91e9-57fed4cf354f-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": ""
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/26/travel/36Hours-Savannah-cover2/merlin_215796420_142deccb-9009-4bac-91e9-57fed4cf354f-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": ""
+}
+],
+"short_url": "https://nyti.ms/3T6rqCS"
+},
+{
+"section": "opinion",
+"subsection": "",
+"title": "America Can Have Democracy or Political Violence. Not Both.",
+"abstract": "Political violence from right-wing extremists is a growing problem in America. What can we do about it?",
+"url": "https://www.nytimes.com/2022/11/03/opinion/political-violence-extremism.html",
+"uri": "nyt://article/2e43eda4-3963-543c-85cc-5ded88a390dc",
+"byline": "By The Editorial Board",
+"item_type": "Article",
+"updated_date": "2022-11-03T14:46:19-04:00",
+"created_date": "2022-11-03T05:00:29-04:00",
+"published_date": "2022-11-03T05:00:29-04:00",
+"material_type_facet": "",
+"kicker": "The Editorial Board",
+"des_facet": [
+"Fringe Groups and Movements",
+"Right-Wing Extremism and Alt-Right",
+"Democracy (Theory and Philosophy)",
+"Law and Legislation",
+"Terrorism",
+"United States Politics and Government",
+"Politics and Government",
+"States (US)",
+"Murders, Attempted Murders and Homicides",
+"Demonstrations, Protests and Riots",
+"Constitution (US)",
+"Second Amendment (US Constitution)",
+"Whites",
+"Mass Shootings"
+],
+"org_facet": [
+"Boogaloo Movement",
+"Carnegie Endowment for International Peace",
+"Georgetown University Law Center",
+"House Select Committee to Investigate the January 6th Attack",
+"Ku Klux Klan",
+"Oath Keepers",
+"Patriot Front",
+"Republican Party",
+"Southern Poverty Law Center",
+"Three Percenters"
+],
+"per_facet": [],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/04/opinion/04violenceTop/04violenceTop-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1366,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Mark Peterson/Redux"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/04/opinion/04violenceTop/04violenceTop-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Mark Peterson/Redux"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/04/opinion/04violenceTop/04violenceTop-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Mark Peterson/Redux"
+}
+],
+"short_url": "https://nyti.ms/3Dy3mD9"
+},
+{
+"section": "opinion",
+"subsection": "",
+"title": "Why Aren’t the Democrats Trouncing These Guys?",
+"abstract": "A pathetic GOP still manages to thrive.",
+"url": "https://www.nytimes.com/2022/11/03/opinion/democrats-midterms-college.html",
+"uri": "nyt://article/59229cb9-2271-5504-9bdf-6bcdc4f5795e",
+"byline": "By David Brooks",
+"item_type": "Article",
+"updated_date": "2022-11-03T20:02:37-04:00",
+"created_date": "2022-11-03T19:00:06-04:00",
+"published_date": "2022-11-03T19:00:06-04:00",
+"material_type_facet": "",
+"kicker": "David Brooks",
+"des_facet": [
+"Midterm Elections (2022)",
+"United States Politics and Government",
+"Politics and Government",
+"Minorities"
+],
+"org_facet": [
+"Senate",
+"Democratic Party",
+"Republican Party",
+"House of Representatives"
+],
+"per_facet": [],
+"geo_facet": [
+"United States",
+"Pennsylvania",
+"Nevada"
+],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/opinion/03brooks1/merlin_215895159_8e6b3e28-c876-47ec-8232-dcc9f81ab8a4-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1306,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "A billboard with an opinion in Worthington, Pa.",
+"copyright": "Ruth Fremson/The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/opinion/03brooks1/03brooks1-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "A billboard with an opinion in Worthington, Pa.",
+"copyright": "Ruth Fremson/The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/opinion/03brooks1/03brooks1-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "A billboard with an opinion in Worthington, Pa.",
+"copyright": "Ruth Fremson/The New York Times"
+}
+],
+"short_url": "https://nyti.ms/3sVBq7c"
+},
+{
+"section": "opinion",
+"subsection": "",
+"title": "What if Every Moment Since Jan. 6 Was Just the Calm Before the Storm?",
+"abstract": "Biden was right to warn America about the gathering threat to democracy.",
+"url": "https://www.nytimes.com/2022/11/03/opinion/january-6-democracy.html",
+"uri": "nyt://article/2927073c-4f86-5256-b985-39df8e8d761e",
+"byline": "By Michelle Goldberg",
+"item_type": "Article",
+"updated_date": "2022-11-03T20:12:08-04:00",
+"created_date": "2022-11-03T20:12:08-04:00",
+"published_date": "2022-11-03T20:12:08-04:00",
+"material_type_facet": "",
+"kicker": "Michelle Goldberg",
+"des_facet": [
+"Midterm Elections (2022)",
+"United States Politics and Government",
+"Democracy (Theory and Philosophy)",
+"Right-Wing Extremism and Alt-Right",
+"Storming of the US Capitol (Jan, 2021)"
+],
+"org_facet": [
+"Republican Party"
+],
+"per_facet": [],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/opinion/03goldberg1/merlin_211078155_dd225c48-f918-4bad-962a-045ab6661c2c-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Jonathan Ernst/Reuters"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/opinion/03goldberg1/03goldberg1-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Jonathan Ernst/Reuters"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/opinion/03goldberg1/03goldberg1-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Jonathan Ernst/Reuters"
+}
+],
+"short_url": "https://nyti.ms/3DWFJWn"
+},
+{
+"section": "opinion",
+"subsection": "",
+"title": "The G.O.P. Plot Against Medicare and Social Security",
+"abstract": "Never mind the “populism,” it’s still a rich man’s party.",
+"url": "https://www.nytimes.com/2022/11/03/opinion/republican-medicare-social-security.html",
+"uri": "nyt://article/3586b4dc-a176-573d-8797-573bcf763518",
+"byline": "By Paul Krugman",
+"item_type": "Article",
+"updated_date": "2022-11-03T17:13:26-04:00",
+"created_date": "2022-11-03T17:13:26-04:00",
+"published_date": "2022-11-03T17:13:26-04:00",
+"material_type_facet": "",
+"kicker": "Paul Krugman",
+"des_facet": [
+"Midterm Elections (2022)",
+"Social Security (US)",
+"Medicare",
+"High Net Worth Individuals",
+"Income Inequality",
+"Longevity",
+"Tax Evasion",
+"Elderly",
+"United States Politics and Government"
+],
+"org_facet": [
+"Republican Party",
+"Republican Study Committee"
+],
+"per_facet": [],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/opinion/03krugman1/merlin_133737363_e182022d-ad3b-4200-bf4c-ea3aab03c855-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Jenna Schoenefeld for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/opinion/03krugman1/03krugman1-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Jenna Schoenefeld for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/opinion/03krugman1/03krugman1-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Jenna Schoenefeld for The New York Times"
+}
+],
+"short_url": "https://nyti.ms/3FIXk5e"
+},
+{
+"section": "briefing",
+"subsection": "",
+"title": "Your Thursday Evening Briefing",
+"abstract": "Here’s what you need to know at the end of the day.",
+"url": "https://www.nytimes.com/2022/11/03/briefing/benjamin-netanyahu-israel-elections-midterms-crime.html",
+"uri": "nyt://article/9e6ef87a-b7d3-5238-8e65-8a1515501855",
+"byline": "By Matthew Cullen",
+"item_type": "Article",
+"updated_date": "2022-11-03T18:30:34-04:00",
+"created_date": "2022-11-03T17:55:41-04:00",
+"published_date": "2022-11-03T17:55:41-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/multimedia/-1-de94/-1-de94-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1325,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "Benjamin Netanyahu in Jerusalem yesterday. ",
+"copyright": "Ammar Awad/Reuters"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/multimedia/-1-de94/-1-de94-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "Benjamin Netanyahu in Jerusalem yesterday. ",
+"copyright": "Ammar Awad/Reuters"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/multimedia/-1-de94/-1-de94-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "Benjamin Netanyahu in Jerusalem yesterday. ",
+"copyright": "Ammar Awad/Reuters"
+}
+],
+"short_url": "https://nyti.ms/3sU5S1M"
+},
+{
+"section": "dining",
+"subsection": "",
+"title": "Delicious One-Pot Wonders With Big Flavor",
+"abstract": "Maafé, chili, gumbo and more dishes brimming with coziness and comfort.",
+"url": "https://www.nytimes.com/2022/11/03/dining/delicious-one-pot-wonders-with-big-flavor.html",
+"uri": "nyt://article/20463b12-c011-550d-afcb-968dd8916074",
+"byline": "By Tejal Rao",
+"item_type": "Article",
+"updated_date": "2022-11-03T13:00:05-04:00",
+"created_date": "2022-11-03T13:00:05-04:00",
+"published_date": "2022-11-03T13:00:05-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Cooking and Cookbooks",
+"Content Type: Service",
+"Recipes"
+],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/02/dining/26komolaferex-maafe-copy/merlin_215042799_bc2aa535-f2b8-4897-aa66-e8e48813a953-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Chris Simpson for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks."
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/02/dining/26komolaferex-maafe-copy/merlin_215042799_bc2aa535-f2b8-4897-aa66-e8e48813a953-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Chris Simpson for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks."
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/02/dining/26komolaferex-maafe-copy/merlin_215042799_bc2aa535-f2b8-4897-aa66-e8e48813a953-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Chris Simpson for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks."
+}
+],
+"short_url": "https://nyti.ms/3SXb53v"
+},
+{
+"section": "arts",
+"subsection": "music",
+"title": "Taylor Swift’s ‘Midnights’: Listener Mailbag",
+"abstract": "The New York Times pop music team had its say; now a new panel answers questions about the blockbuster album.",
+"url": "https://www.nytimes.com/2022/11/02/arts/music/popcast-taylor-swift-midnights-questions.html",
+"uri": "nyt://article/c58bcf47-3fac-58cf-b688-2e78fd0955f7",
+"byline": "",
+"item_type": "Article",
+"updated_date": "2022-11-03T08:39:13-04:00",
+"created_date": "2022-11-02T16:03:51-04:00",
+"published_date": "2022-11-02T16:03:51-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"audio-neutral-informative",
+"Pop and Rock Music",
+"Midnights (Album)"
+],
+"org_facet": [],
+"per_facet": [
+"Swift, Taylor"
+],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/02/multimedia/02popcast-1-8d8a/02popcast-1-8d8a-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Terry Wyatt/Getty Images"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/02/multimedia/02popcast-1-8d8a/02popcast-1-8d8a-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Terry Wyatt/Getty Images"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/02/multimedia/02popcast-1-8d8a/02popcast-1-8d8a-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Terry Wyatt/Getty Images"
+}
+],
+"short_url": "https://nyti.ms/3zE4kwy"
+},
+{
+"section": "arts",
+"subsection": "television",
+"title": "How Much Watching Time Do You Have This Weekend?",
+"abstract": "Our TV critic recommends checking out an enchanting cartoon, a new British musical drama and a well-done crime documentary.",
+"url": "https://www.nytimes.com/2022/11/03/arts/television/phil-spector-documentary-mood.html",
+"uri": "nyt://article/d17f45c9-fe44-5295-8080-01d860cd16a6",
+"byline": "By Margaret Lyons",
+"item_type": "Article",
+"updated_date": "2022-11-03T18:19:05-04:00",
+"created_date": "2022-11-03T16:47:29-04:00",
+"published_date": "2022-11-03T16:47:29-04:00",
+"material_type_facet": "",
+"kicker": "The Watching Newsletter",
+"des_facet": [
+"Documentary Films and Programs",
+"Television",
+"Wolfboy and the Everything Factory (TV Program)",
+"Spector (TV Program)",
+"Mood (TV Program)"
+],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/04/arts/03Watching-Wolfboy/03Watching-Wolfboy-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1152,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "A scene from “Wolfboy and the Everything Factory.”",
+"copyright": "Apple TV+"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/04/arts/03Watching-Wolfboy/03Watching-Wolfboy-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "A scene from “Wolfboy and the Everything Factory.”",
+"copyright": "Apple TV+"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/04/arts/03Watching-Wolfboy/03Watching-Wolfboy-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "A scene from “Wolfboy and the Everything Factory.”",
+"copyright": "Apple TV+"
+}
+],
+"short_url": "https://nyti.ms/3haCMs6"
+},
+{
+"section": "sports",
+"subsection": "basketball",
+"title": "Nets Suspend Kyrie Irving Indefinitely After Antisemitic Movie Post",
+"abstract": "Irving posted a link to an antisemitic movie last week but has declined to apologize. His suspension will last at least five games.",
+"url": "https://www.nytimes.com/2022/11/03/sports/basketball/kyrie-irving-apology-antisemitic-documentary.html",
+"uri": "nyt://article/e13e9562-3484-5c3f-a9d7-8f0ad96fdcc5",
+"byline": "By Tania Ganguli",
+"item_type": "Article",
+"updated_date": "2022-11-03T20:17:10-04:00",
+"created_date": "2022-11-03T18:28:29-04:00",
+"published_date": "2022-11-03T18:28:29-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Anti-Semitism",
+"Basketball",
+"Discrimination",
+"Social Media",
+"Holocaust and the Nazi Era",
+"Fines (Penalties)",
+"Jews and Judaism",
+"War Crimes, Genocide and Crimes Against Humanity",
+"Indecency, Obscenity and Profanity",
+"Homosexuality and Bisexuality"
+],
+"org_facet": [
+"Anti-Defamation League",
+"Brooklyn Nets",
+"National Basketball Assn"
+],
+"per_facet": [
+"Irving, Kyrie",
+"Silver, Adam (1962- )",
+"Tsai, Joseph C"
+],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/sports/03nba-kyrie-statement-1/merlin_215815359_8d369c6d-24c7-43d6-b263-f2b9f232e320-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "Nets guard Kyrie Irving distanced himself from some of the false assertions made in an antisemitic movie he linked to on Twitter last week.",
+"copyright": "Jessie Alcheh/Associated Press"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/sports/03nba-kyrie-statement-1/merlin_215815359_8d369c6d-24c7-43d6-b263-f2b9f232e320-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "Nets guard Kyrie Irving distanced himself from some of the false assertions made in an antisemitic movie he linked to on Twitter last week.",
+"copyright": "Jessie Alcheh/Associated Press"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/sports/03nba-kyrie-statement-1/merlin_215815359_8d369c6d-24c7-43d6-b263-f2b9f232e320-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "Nets guard Kyrie Irving distanced himself from some of the false assertions made in an antisemitic movie he linked to on Twitter last week.",
+"copyright": "Jessie Alcheh/Associated Press"
+}
+],
+"short_url": "https://nyti.ms/3Wud0PX"
+},
+{
+"section": "world",
+"subsection": "europe",
+"title": "Like Others Before Him, Sunak Has a Boris Johnson Problem",
+"abstract": "Already saddled with a budget crisis amid a cost-of-living crisis, the British prime minister has to deal with his predecessor.",
+"url": "https://www.nytimes.com/2022/11/03/world/europe/uk-rishi-sunak-boris-johnson.html",
+"uri": "nyt://article/98cdbfd6-1d00-5dd5-a3d5-249cbddd27e8",
+"byline": "By Mark Landler",
+"item_type": "Article",
+"updated_date": "2022-11-03T18:57:50-04:00",
+"created_date": "2022-11-03T18:57:50-04:00",
+"published_date": "2022-11-03T18:57:50-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Politics and Government",
+"International Relations"
+],
+"org_facet": [
+"Conservative Party (Great Britain)"
+],
+"per_facet": [
+"Sunak, Rishi (1980- )",
+"Johnson, Boris"
+],
+"geo_facet": [
+"Great Britain"
+],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/world/03uk-politics-1/merlin_215886453_8a8467d3-fbde-477a-8e04-34b23dea7c8f-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "Prime Minister Rishi Sunak of Britain on Wednesday. It was Mr. Sunak’s resignation as Boris Johnson’s chancellor of the Exchequer that triggered his boss’s downfall. ",
+"copyright": "John Sibley/Reuters"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/world/03uk-politics-1/merlin_215886453_8a8467d3-fbde-477a-8e04-34b23dea7c8f-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "Prime Minister Rishi Sunak of Britain on Wednesday. It was Mr. Sunak’s resignation as Boris Johnson’s chancellor of the Exchequer that triggered his boss’s downfall. ",
+"copyright": "John Sibley/Reuters"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/world/03uk-politics-1/03uk-politics-1-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "Prime Minister Rishi Sunak of Britain on Wednesday. It was Mr. Sunak’s resignation as Boris Johnson’s chancellor of the Exchequer that triggered his boss’s downfall. ",
+"copyright": "John Sibley/Reuters"
+}
+],
+"short_url": "https://nyti.ms/3h39Z8R"
+},
+{
+"section": "us",
+"subsection": "",
+"title": "On Uvalde’s Day of the Dead, a Night to Remember",
+"abstract": "In memory of the 21 victims of a deadly school shooting, a night of candles, music and poignant mementos was a chance to set grieving aside and celebrate the short lives lost.",
+"url": "https://www.nytimes.com/2022/11/03/us/uvalde-day-of-the-dead.html",
+"uri": "nyt://article/5fe7ac67-d341-5615-a54f-9d6571a51a22",
+"byline": "By Edgar Sandoval and Tamir Kalifa",
+"item_type": "Article",
+"updated_date": "2022-11-03T16:41:37-04:00",
+"created_date": "2022-11-03T13:34:57-04:00",
+"published_date": "2022-11-03T13:34:57-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Mass Shootings",
+"Mexican-Americans",
+"Holidays and Special Occasions",
+"Uvalde, Tex, Shooting (May 24, 2022)",
+"School Shootings and Armed Attacks",
+"Cemeteries"
+],
+"org_facet": [
+"Robb Elementary School (Uvalde, Tex)"
+],
+"per_facet": [],
+"geo_facet": [
+"Texas",
+"Uvalde (Tex)"
+],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/us/00NAT-UVALDE-DEAD-1/00NAT-UVALDE-DEAD-1--superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1366,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": ""
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/us/00NAT-UVALDE-DEAD-1/00NAT-UVALDE-DEAD-1--threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": ""
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/us/00NAT-UVALDE-DEAD-1/00NAT-UVALDE-DEAD-1--thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": ""
+}
+],
+"short_url": "https://nyti.ms/3UaH3e4"
+},
+{
+"section": "climate",
+"subsection": "",
+"title": "A Warming Siberia, Wracked by Wildfires, Nears a Crucial Threshold",
+"abstract": "Nearly 23 million acres burned from 1982 to 2020. But almost half of that occurred in 2019 and 2020, and the region may be near a threshold beyond which extreme fires become more common.",
+"url": "https://www.nytimes.com/2022/11/03/climate/siberia-fires-climate-change.html",
+"uri": "nyt://article/b5a35dcc-e5ed-5bf5-97b8-e3ff5492a270",
+"byline": "By Henry Fountain",
+"item_type": "Article",
+"updated_date": "2022-11-03T17:56:09-04:00",
+"created_date": "2022-11-03T14:00:08-04:00",
+"published_date": "2022-11-03T14:00:08-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Global Warming",
+"Wildfires",
+"Research"
+],
+"org_facet": [
+"Science (Journal)"
+],
+"per_facet": [],
+"geo_facet": [
+"Siberia"
+],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/03/climate/03cli-siberia1/merlin_190837443_833088ab-f648-4960-b095-a5a73894a481-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "A downed power line near Magaras in northeastern Siberia in July 2021. Wildfire smoke cloaked the area.",
+"copyright": "Nanna Heitmann for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/climate/03cli-siberia1/merlin_190837443_833088ab-f648-4960-b095-a5a73894a481-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "A downed power line near Magaras in northeastern Siberia in July 2021. Wildfire smoke cloaked the area.",
+"copyright": "Nanna Heitmann for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/03/climate/03cli-siberia1/03cli-siberia1-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "A downed power line near Magaras in northeastern Siberia in July 2021. Wildfire smoke cloaked the area.",
+"copyright": "Nanna Heitmann for The New York Times"
+}
+],
+"short_url": "https://nyti.ms/3Du0t6m"
+},
+{
+"section": "well",
+"subsection": "move",
+"title": "A Beginner’s Guide to the Rowing Machine",
+"abstract": "Fitness companies have caught on to the fact that these devices deliver an intense full-body workout.",
+"url": "https://www.nytimes.com/2022/11/02/well/move/rowing-machine-workout-guide.html",
+"uri": "nyt://article/fb2f4754-03c6-526d-8193-90ac49803052",
+"byline": "By Dana G. Smith",
+"item_type": "Article",
+"updated_date": "2022-11-02T12:53:18-04:00",
+"created_date": "2022-11-02T10:45:44-04:00",
+"published_date": "2022-11-02T10:45:44-04:00",
+"material_type_facet": "",
+"kicker": "why not try",
+"des_facet": [
+"Exercise",
+"Rowing",
+"Content Type: Service",
+"Health Clubs",
+"Boats and Boating",
+"Weight Lifting"
+],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/08/multimedia/26WNT-ROWING-WORKOUT5-1-310a/26WNT-ROWING-WORKOUT5-1-310a-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 2048,
+"width": 1366,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Melissa Lukenbaugh for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/08/multimedia/26WNT-ROWING-WORKOUT5-1-310a/26WNT-ROWING-WORKOUT5-1-310a-threeByTwoSmallAt2X-v2.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Melissa Lukenbaugh for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/08/multimedia/26WNT-ROWING-WORKOUT5-1-310a/26WNT-ROWING-WORKOUT5-1-310a-thumbLarge-v2.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Melissa Lukenbaugh for The New York Times"
+}
+],
+"short_url": "https://nyti.ms/3h5cMi0"
+},
+{
+"section": "well",
+"subsection": "move",
+"title": "Can Exercise Strengthen Your Immunity?",
+"abstract": "Recent research suggests that people who work out have stronger resistance to infectious diseases — including Covid — but experts say the findings need to be tested further.",
+"url": "https://www.nytimes.com/2022/09/07/well/move/exercise-immunity-covid.html",
+"uri": "nyt://article/e13be86c-5c7f-59a1-8673-f41b13f73ba3",
+"byline": "By Knvul Sheikh",
+"item_type": "Article",
+"updated_date": "2022-09-20T09:06:23-04:00",
+"created_date": "2022-09-07T12:28:44-04:00",
+"published_date": "2022-09-07T12:28:44-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Coronavirus (2019-nCoV)",
+"Exercise",
+"Research",
+"Weight",
+"Vaccination and Immunization",
+"Respiratory Diseases",
+"Deaths (Fatalities)",
+"Immune System",
+"Content Type: Service",
+"Muscles",
+"Cold and Cold Spells"
+],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/09/13/multimedia/01WELL-EXERCISE-IMMUNITY1/01WELL-EXERCISE-IMMUNITY1-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Victor Moriyama for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/09/13/multimedia/01WELL-EXERCISE-IMMUNITY1/01WELL-EXERCISE-IMMUNITY1-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Victor Moriyama for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/09/13/multimedia/01WELL-EXERCISE-IMMUNITY1/01WELL-EXERCISE-IMMUNITY1-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Victor Moriyama for The New York Times"
+}
+],
+"short_url": "https://nyti.ms/3RunxYr"
+},
+{
+"section": "well",
+"subsection": "move",
+"title": "Disc Golf Can Turn Your Walk Into a Workout",
+"abstract": "This surprisingly fun sport changes a stroll in the park into an afternoon adventure with a flying piece of plastic.",
+"url": "https://www.nytimes.com/2022/08/18/well/move/disc-golf.html",
+"uri": "nyt://article/0ccbc304-1210-538a-8e00-6e5aa0966544",
+"byline": "By Holly Burns",
+"item_type": "Article",
+"updated_date": "2022-08-18T05:00:27-04:00",
+"created_date": "2022-08-18T05:00:27-04:00",
+"published_date": "2022-08-18T05:00:27-04:00",
+"material_type_facet": "",
+"kicker": "Why not try",
+"des_facet": [
+"Exercise",
+"Frisbees",
+"Golf",
+"Athletics and Sports",
+"Hikes and Hiking"
+],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/08/17/multimedia/17WNT-DISC-GOLF1/17WNT-DISC-GOLF1-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Todd Korol for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/08/17/multimedia/17WNT-DISC-GOLF1/17WNT-DISC-GOLF1-threeByTwoSmallAt2X-v2.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Todd Korol for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/08/17/multimedia/17WNT-DISC-GOLF1/17WNT-DISC-GOLF1-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Todd Korol for The New York Times"
+}
+],
+"short_url": "https://nyti.ms/3A4Mx0V"
+},
+{
+"section": "well",
+"subsection": "move",
+"title": "How Painful Should Your Workout Be?",
+"abstract": "Every strenuous exercise involves some mixture of suffering and pleasure. The key to sticking with it is getting the balance right.",
+"url": "https://www.nytimes.com/2022/09/30/well/move/how-hard-workout.html",
+"uri": "nyt://article/1a14cea0-798b-590e-8b29-ead5b9ec99be",
+"byline": "By Alex Hutchinson",
+"item_type": "Article",
+"updated_date": "2022-09-30T10:56:43-04:00",
+"created_date": "2022-09-30T10:56:43-04:00",
+"published_date": "2022-09-30T10:56:43-04:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Exercise",
+"Research",
+"Content Type: Service",
+"Psychology and Psychologists",
+"Marathon Running",
+"Habits and Routines (Behavior)"
+],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/09/30/autossell/0928_burpee_final/0928_burpee_final-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1366,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Sean Dong"
+},
+{
+"url": "https://static01.nyt.com/images/2022/09/30/autossell/0928_burpee_final/0928_burpee_final-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Sean Dong"
+},
+{
+"url": "https://static01.nyt.com/images/2022/09/30/autossell/0928_burpee_final/0928_burpee_final-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Sean Dong"
+}
+],
+"short_url": "https://nyti.ms/3SoSa1S"
+},
+{
+"section": "well",
+"subsection": "move",
+"title": "Be Here Now: How to Exercise Mindfully",
+"abstract": "Bringing meditation into your movement can enrich your workout and help you feel clearheaded afterward.",
+"url": "https://www.nytimes.com/2022/01/28/well/move/exercise-mindfulness.html",
+"uri": "nyt://article/378b4de4-a153-5e43-858b-e21b4ef0cec0",
+"byline": "By Jenny Marder",
+"item_type": "Article",
+"updated_date": "2022-02-09T23:36:05-05:00",
+"created_date": "2022-01-28T13:55:35-05:00",
+"published_date": "2022-01-28T13:55:35-05:00",
+"material_type_facet": "",
+"kicker": "",
+"des_facet": [
+"Meditation",
+"Exercise",
+"Yoga",
+"Brain",
+"Tightrope-Walking",
+"Martial Arts"
+],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/01/24/well/24meditation-in-movement10/merlin_200673108_3d038295-1ff2-4d91-8f0c-a4b173304736-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 2048,
+"width": 1635,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Sasha Arutyunova for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/01/24/well/24meditation-in-movement10/24meditation-in-movement10-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Sasha Arutyunova for The New York Times"
+},
+{
+"url": "https://static01.nyt.com/images/2022/01/24/well/24meditation-in-movement10/24meditation-in-movement10-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "",
+"copyright": "Sasha Arutyunova for The New York Times"
+}
+],
+"short_url": "https://nyti.ms/3s19a29"
+},
+{
+"section": "theater",
+"subsection": "",
+"title": "Review: ‘The Year of Magical Thinking’ Gets Joan Didion’s Intention Just Right",
+"abstract": "A play based on the writer’s memoir about the death of her husband, in its first New York revival, goes small to powerful effect.",
+"url": "https://www.nytimes.com/2022/11/02/theater/the-year-of-magical-thinking-review.html",
+"uri": "nyt://article/dd2240c2-f6b8-53ed-80dd-bdb2299ab42b",
+"byline": "By Laura Collins-Hughes",
+"item_type": "Article",
+"updated_date": "2022-11-03T17:02:39-04:00",
+"created_date": "2022-11-02T19:00:05-04:00",
+"published_date": "2022-11-02T19:00:05-04:00",
+"material_type_facet": "",
+"kicker": "Critic’s Pick",
+"des_facet": [
+"Theater",
+"The Year of Magical Thinking (Play)",
+"Writing and Writers",
+"Content Type: Personal Profile"
+],
+"org_facet": [
+"Keen Company"
+],
+"per_facet": [
+"Chalfant, Kathleen",
+"Silverstein, Jonathan (Theater Director)",
+"Didion, Joan",
+"Dunne, John Gregory"
+],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/11/04/arts/02magical-thinking-art/merlin_215900781_1b172c21-798f-4fae-b693-26be600a242d-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 1365,
+"width": 2048,
+"type": "image",
+"subtype": "photo",
+"caption": "Kathleen Chalfant as Joan Didion in “The Year of Magical Thinking,” a production by Keen Company that is being performed in living rooms and community spaces around New York City.",
+"copyright": "Richard Termine"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/04/arts/02magical-thinking-art/merlin_215900781_1b172c21-798f-4fae-b693-26be600a242d-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "Kathleen Chalfant as Joan Didion in “The Year of Magical Thinking,” a production by Keen Company that is being performed in living rooms and community spaces around New York City.",
+"copyright": "Richard Termine"
+},
+{
+"url": "https://static01.nyt.com/images/2022/11/04/arts/02magical-thinking-art/02magical-thinking-art-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "Kathleen Chalfant as Joan Didion in “The Year of Magical Thinking,” a production by Keen Company that is being performed in living rooms and community spaces around New York City.",
+"copyright": "Richard Termine"
+}
+],
+"short_url": "https://nyti.ms/3h7ElXM"
+},
+{
+"section": "crosswords",
+"subsection": "",
+"title": "ton trades",
+"abstract": "What the data tells us about how people play the game.",
+"url": "https://www.nytimes.com/2022/09/01/crosswords/wordle-starting-words-adieu.html",
+"uri": "nyt://article/f2620fa1-b3df-5849-96cd-58d555181022",
+"byline": "By Deb Amlen",
+"item_type": "Article",
+"updated_date": "2022-09-01T14:40:20-04:00",
+"created_date": "2022-09-01T09:00:05-04:00",
+"published_date": "2022-09-01T09:00:05-04:00",
+"material_type_facet": "",
+"kicker": "GAMEPLAY",
+"des_facet": [
+"Wordle (Puzzle)",
+"Games"
+],
+"org_facet": [],
+"per_facet": [],
+"geo_facet": [],
+"multimedia": [
+{
+"url": "https://static01.nyt.com/images/2022/08/25/crosswords/wordle-top/wordle-top-superJumbo.jpg",
+"format": "Super Jumbo",
+"height": 683,
+"width": 1024,
+"type": "image",
+"subtype": "photo",
+"caption": "Wordle gives players six tries to guess the daily word. Only a small number of people go in with a plan.",
+"copyright": "Stefani Reynolds/Agence France-Presse, via Getty Images"
+},
+{
+"url": "https://static01.nyt.com/images/2022/08/25/crosswords/wordle-top/wordle-top-threeByTwoSmallAt2X.jpg",
+"format": "threeByTwoSmallAt2X",
+"height": 400,
+"width": 600,
+"type": "image",
+"subtype": "photo",
+"caption": "Wordle gives players six tries to guess the daily word. Only a small number of people go in with a plan.",
+"copyright": "Stefani Reynolds/Agence France-Presse, via Getty Images"
+},
+{
+"url": "https://static01.nyt.com/images/2022/08/25/crosswords/wordle-top/wordle-top-thumbLarge.jpg",
+"format": "Large Thumbnail",
+"height": 150,
+"width": 150,
+"type": "image",
+"subtype": "photo",
+"caption": "Wordle gives players six tries to guess the daily word. Only a small number of people go in with a plan.",
+"copyright": "Stefani Reynolds/Agence France-Presse, via Getty Images"
+}
+],
+"short_url": "https://nyti.ms/3q2W8kk"
+}
+]
+}

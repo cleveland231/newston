@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { Route, Switch, NavLink } from 'react-router-dom'
+import { Route, Switch, NavLink, useLocation } from 'react-router-dom'
 import { fetchStories, fetchOptionStories } from '../../fetch';
 import filterOptions from '../../filterOptions';
 import { Main } from '../Main/Main';
@@ -9,6 +9,7 @@ import './App.css';
 const App = () => {
   const [stories, setStories] = useState([])
   const [selectOption, setSelectOption] = useState('')
+  const location = useLocation()
 
   useEffect(() => {
     fetchStories().then((data) => {
@@ -28,7 +29,7 @@ const App = () => {
   const viewDropDown = () => {
     return filterOptions.map(option => {
       return (
-        <option value={option}>{option}</option>
+        <option className="optionList" key={option} value={option}>{option}</option>
       )
     })
   }
@@ -43,17 +44,16 @@ const App = () => {
         <NavLink to="/">
           <h1 className='newstonTitle'>Newston</h1>
         </NavLink>
-
-        <form className='filter'>
+        {location.pathname === "/" && <form className='filter'>
           <select
-            name="options"
+            className="options"
             value={selectOption}
             onChange={(event) => handleClick(event)}
           >
-            <option value="home">Filter Topics</option>
+            <option value="home">Topics...</option>
             {viewDropDown()}
           </select>
-        </form>
+        </form>}
       </div>
       <Switch>
         <Route exact path="/" render={() => <Main stories={stories} />} />
@@ -61,7 +61,7 @@ const App = () => {
           const details = stories.find(story => story.title === match.params.id)
           return <SingleStory stories={stories} details={details} />
         }} />
-        <Route render={() => <h2>This Path Does Not Exist!</h2>} />
+        <Route render={() => <h2 className='appMessage'> This Path Does Not Exist! </h2>} />
       </Switch>
     </div>
   );
